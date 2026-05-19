@@ -30,8 +30,7 @@ Compared male and female employee representation across different departments.
 ## Q3. Age Distribution Analysis
 Created histogram visualizations to understand employee age spread within the company.
 
-QUESTION 4
-## 4. Salary Analysis by Department
+## Q4. Salary Analysis by Department
 Calculated minimum, maximum, and average salary metrics across departments.
 
 ## Q5. Top Earners by Country
