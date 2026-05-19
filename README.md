@@ -1,10 +1,11 @@
 
 # 1. Project Title
 ## HR Data Analysis using Power BI
-HR data analysis project using Power BI covering workforce insights, salary analysis, performance evaluation, growth trends, and country-wise comparisons.
+
 
 
 ## 2. Project Overview
+HR data analysis project using Power BI covering workforce insights, salary analysis, performance evaluation, growth trends, and country-wise comparisons.
 This project focuses on performing HR data analysis using Power BI to derive workforce insights from employee data.
 The analysis covers employee distribution, salary trends, workforce growth, demographic analysis, employee filtering, and performance-based insights using interactive visualizations and Power Query transformations.
 
